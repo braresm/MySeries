@@ -73,7 +73,9 @@ flutter:
     - assets/Intruiged.png
     - assets/Angry.png
     - assets/Excited.png
-    - assets/Adventurous.png
+    - assets/Nostalgic.png
+    - assets/Tensed.png
+    - assets/Fun.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:

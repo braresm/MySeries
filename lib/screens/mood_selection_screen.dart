@@ -10,15 +10,15 @@ class MoodSelectionScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final moods = [
-      {'name': 'Weird', 'image': 'assets/Weird.png'},
-      {'name': 'Frisky', 'image': 'assets/Frisky.png'},
+      {'name': 'Fun', 'image': 'assets/Fun.png'},
+      {'name': 'Tensed', 'image': 'assets/Tensed.png'},
       {'name': 'Scared', 'image': 'assets/Scared.png'},
-      {'name': 'Sad', 'image': 'assets/Sad.png'},
+      {'name': 'Nostalgic', 'image': 'assets/Nostalgic.png'},
       {'name': 'Passionate', 'image': 'assets/Passionate.png'},
       {'name': 'Intruiged', 'image': 'assets/Intruiged.png'},
       {'name': 'Angry', 'image': 'assets/Angry.png'},
       {'name': 'Excited', 'image': 'assets/Excited.png'},
-      {'name': 'Adventurous', 'image': 'assets/Adventurous.png'},
+      {'name': 'Sad', 'image': 'assets/Sad.png'},
     ];
 
     return Scaffold(
